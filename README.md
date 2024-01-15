@@ -1,6 +1,13 @@
 # Hi 😊, I'm Eveline
 
-  I have recently graduated in Computer Programming at Seneca College - Toronto, and I'm currently learning game development 🕹️.
+  I have recently graduated in Computer Programming at Seneca College - Toronto. I have academic experience programming in C/C++, JS, and Python. 
+  The program focused on software development and WEB development which I found the backend extremely interesting.  
+
+  🧩 As for software development, I used C/C++ to finish an academic project where I built a Library Management System and another project was an Assembly Line Simulation. In both academic projects, I used the Object Oriented Principles (OOP).  
+  
+  🧩 In WEB development I've used concepts of JS, NodeJS, and ExpressJS, as well as ReactJS and NextJS in academic projects to build WEB applications. 
+  
+  🧩 I'm passionate about how games work and how they're built, so I'm currently learning game development 🕹️ using C++ and Unreal Engine 5.
 
 ## 🙋‍♀️ Let's Connect
 
