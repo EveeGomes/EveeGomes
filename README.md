@@ -1,13 +1,17 @@
 # Hi 😊, I'm Eveline  
-### **Game Developer | Backend Enthusiast | Unreal Engine & C++ Learner**
+### **Game Developer | Unreal Engine & C++ Learner**
 
 🎓 **Computer Programming Graduate** from **Seneca College (Toronto)**  
 💻 **Skills:** C/C++, Python, JavaScript, Unreal Engine 5, UEFN, Verse  
 🔧 **Passionate About:** Game development, backend systems, and interactive experiences  
 🎮 **Currently:** Building Fortnite maps professionally with **UEFN & Verse**
 
-## 💻 Projects & Experience  
+## Projects & Experience  
 
+### 🎮 **Game Development (Unreal Engine 5 & UEFN)**  
+- Learning **C++ & UE5** for game mechanics.  
+- Professionally developing **Fortnite maps** using **UEFN & Verse**.
+- 
 ### 🧩 **Software Development (C/C++)**  
 - **Library Management System** – OOP-driven academic project.  
 - **Assembly Line Simulator** – C++ simulation of production workflows.  
@@ -15,9 +19,6 @@
 ### 🌐 **Web Development (JS/React/Node)**  
 - Built full-stack apps with **React, Next.js, Express, and Node.js**.  
 
-### 🎮 **Game Development (Unreal Engine 5 & UEFN)**  
-- Learning **C++ & UE5** for game mechanics.  
-- Professionally developing **Fortnite maps** using **UEFN & Verse**.  
 
 ## 🙋‍♀️ Let's Connect
 
@@ -25,7 +26,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@eve.__./)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gomes_evepg)
 
-## 🔥 Current Focus  
+## Current Focus  
 - 🎮 **Fortnite Creative Development** (UEFN & Verse)  
 - 📚 **Deepening C++ & Unreal Engine 5 Knowledge**  
 - 🤖 **Exploring AI in Game Design**
@@ -51,7 +52,7 @@
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 👩‍💻 Continue Learning and Coding Practice
+## Continue Learning and Coding Practice
 
 ![codingninjas](https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
@@ -62,6 +63,6 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-## 💡 GitHub Stats
+## GitHub Stats
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeGomes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
