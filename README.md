@@ -1,15 +1,23 @@
-# Hi 😊, I'm Eveline
+# Hi 😊, I'm Eveline  
+### **Game Developer | Backend Enthusiast | Unreal Engine & C++ Learner**
 
-  I have graduated in Computer Programming at Seneca College - Toronto. I have academic experience programming in C/C++, JS, and Python. 
-  The program focused on software development and WEB development which I found the backend extremely interesting.  
+🎓 **Computer Programming Graduate** from **Seneca College (Toronto)**  
+💻 **Skills:** C/C++, Python, JavaScript, Unreal Engine 5, UEFN, Verse  
+🔧 **Passionate About:** Game development, backend systems, and interactive experiences  
+🎮 **Currently:** Building Fortnite maps professionally with **UEFN & Verse**
 
-  🧩 As for software development, I used C/C++ to finish an academic project where I built a Library Management System and another project was an Assembly Line Simulation. In both academic projects, I used the Object Oriented Principles (OOP).  
-  
-  🧩 In WEB development I've used concepts of JS, NodeJS, and ExpressJS, as well as ReactJS and NextJS in academic projects to build WEB applications. 
-  
-  🧩 I'm passionate about how games work and how they're built, so I'm currently learning game development 🕹️ using C++ and Unreal Engine 5.
+## 💻 Projects & Experience  
 
-  🎮 I'm currently working as a Game Developer in a studio that creates maps for Fortnite. We use Unreal Editor for Fortnite (UEFN) and the programming language Verse.  
+### 🧩 **Software Development (C/C++)**  
+- **Library Management System** – OOP-driven academic project.  
+- **Assembly Line Simulator** – C++ simulation of production workflows.  
+
+### 🌐 **Web Development (JS/React/Node)**  
+- Built full-stack apps with **React, Next.js, Express, and Node.js**.  
+
+### 🎮 **Game Development (Unreal Engine 5 & UEFN)**  
+- Learning **C++ & UE5** for game mechanics.  
+- Professionally developing **Fortnite maps** using **UEFN & Verse**.  
 
 ## 🙋‍♀️ Let's Connect
 
@@ -17,21 +25,31 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@eve.__./)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gomes_evepg)
 
+## 🔥 Current Focus  
+- 🎮 **Fortnite Creative Development** (UEFN & Verse)  
+- 📚 **Deepening C++ & Unreal Engine 5 Knowledge**  
+- 🤖 **Exploring AI in Game Design**
+
 ## ⚙️ Tools and Technologies
 
+**Game Dev:** 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Web Dev:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Other:** 
+![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## 👩‍💻 Continue Learning and Coding Practice
 
