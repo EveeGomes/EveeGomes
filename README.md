@@ -4,7 +4,6 @@
 🎓 **Computer Programming Graduate** from **Seneca College (Toronto)**  
 💻 **Skills:** C/C++, Python, JavaScript, Unreal Engine 5, UEFN, Verse  
 🔧 **Passionate About:** Game development, backend systems, and interactive experiences  
-🎮 **Currently:** Building Fortnite maps professionally with **UEFN & Verse**
 
 ## Projects & Experience  
 
@@ -26,8 +25,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@eve.__./)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gomes_evepg)
 
-## Current Focus  
-- 🎮 **Fortnite Creative Development** (UEFN & Verse)  
+## Current Focus 
 - 📚 **Deepening C++ & Unreal Engine 5 Knowledge**  
 - 🤖 **Exploring AI in Game Design**
 
