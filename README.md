@@ -7,9 +7,12 @@
 
 ## Projects & Experience  
 
-### 🎮 **Game Development (Unreal Engine 5 & UEFN)**  
+### 🎮 **Game Development (Unreal Engine 5 | C++ | Blueprint)**  
 - Learning **C++ & UE5** for game mechanics.  
-- Professionally developing **Fortnite maps** using **UEFN & Verse**.
+- Current focus: Gameplay Ability System.
+- Past experience:
+  - Junior Unreal Engine Developer at Gixer Entertainment.
+  - UEFN Game Developer at Brazza Studio/Level 8.
 
 ### 🧩 **Software Development (C/C++)**  
 - **Library Management System** – OOP-driven academic project.  
