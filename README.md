@@ -2,17 +2,14 @@
 ### **Game Developer | Unreal Engine & C++ Learner**
 
 🎓 **Computer Programming Graduate** from **Seneca College (Toronto)**  
-💻 **Skills:** C/C++, Python, JavaScript, Unreal Engine 5, UEFN, Verse  
 🔧 **Passionate About:** Game development, backend systems, and interactive experiences  
 
 ## Projects & Experience  
 
 ### 🎮 **Game Development (Unreal Engine 5 | C++ | Blueprint)**  
-- Learning **C++ & UE5** for game mechanics.  
-- Current focus: Gameplay Ability System.
-- Past experience:
+- Past experiences:
   - Junior Unreal Engine Developer at Gixer Entertainment.
-  - UEFN Game Developer at Brazza Studio/Level 8.
+  - UEFN Game Developer at Brazza Studio/Level 8 - Verse language | UEFN.
 
 ### 🧩 **Software Development (C/C++)**  
 - **Library Management System** – OOP-driven academic project.  
@@ -30,7 +27,7 @@
 
 ## Current Focus 
 - 📚 **Deepening C++ & Unreal Engine 5 Knowledge**  
-- 🤖 **Exploring AI in Game Design**
+- 🎮 **Gameplay Ability System**
 
 ## ⚙️ Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,git,notion,visualstudio,rider)](https://skillicons.dev)
@@ -45,7 +42,3 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EveeGomes&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
