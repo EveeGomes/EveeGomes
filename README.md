@@ -4,12 +4,25 @@
 🎓 **Computer Programming Graduate** from **Seneca College (Toronto)**  
 🔧 **Passionate About:** Game development, backend systems, and interactive experiences  
 
+
+## Current Focus 
+- 📚 **Deepening C++ & Unreal Engine 5 Knowledge**  
+- 🎮 **Gameplay Ability System**
+- 🗡️ **Working on [QuilomboZ: Palmares](https://store.steampowered.com/app/4596660/QuilomboZ_Palmares/)**
+
+
 ## Projects & Experience  
 
 ### 🎮 **Game Development (Unreal Engine 5 | C++ | Blueprint)**  
 - Past experiences:
+  - Software Engineer Intern at Gamebreaking Studios (working with AS3 and IntelliJ IDEA).
+  - Unreal Engine Developer on [The Dark West game](https://store.steampowered.com/app/3574750/The_Dark_West/).
   - Junior Unreal Engine Developer at Gixer Entertainment.
   - UEFN Game Developer at Brazza Studio/Level 8 - Verse language | UEFN.
+
+### 🕹️ **Game Development - Courses projects**
+- **[Slash](https://github.com/EveeGomes/slash-cpp-ue5)**
+- **[Aura - GAS (WIP)](https://github.com/EveeGomes/gameplay-ability-system-aura)**
 
 ### 🧩 **Software Development (C/C++)**  
 - **Library Management System** – OOP-driven academic project.  
@@ -25,9 +38,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.com/channels/@eve.__./)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/gomes_evepg)
 
-## Current Focus 
-- 📚 **Deepening C++ & Unreal Engine 5 Knowledge**  
-- 🎮 **Gameplay Ability System**
 
 ## ⚙️ Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,unreal,git,notion,visualstudio,rider)](https://skillicons.dev)
